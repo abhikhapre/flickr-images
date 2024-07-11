@@ -21,7 +21,7 @@ You should see the Search bar on top of the screen. Type any search key to see t
 * The View layer is responsible for handling all the layouts and displaying the data user-friendly. The View knows the ViewModel but doesn't know the model.
 
 # Running the tests
-* Project contains tests written using the buil-in framework XCTest.
+* Project contains tests written using the built-in framework XCTest.
 * Using the test triangles: Click on the diamond shape icon on the left side of the code editor to run all tests in the file
 * Re-run the latest test: Press "Command+U" to run the last test
 
