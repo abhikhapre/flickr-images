@@ -1,4 +1,4 @@
-# flickr-images
+# Flickr Images
 SwiftUI Implementation that allows a user to search Flickr for images.
 The app follows MVVM design pattern. 
 UI with a search bar at the top and a grid below it to display search results using Flickr API.
