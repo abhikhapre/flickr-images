@@ -52,7 +52,7 @@ extension FlickrImagesSearchableView {
                                                 maximum: .infinity),
                                       spacing: Layout.gridSpacing)],
                       spacing: Layout.gridSpacing) {
-                ForEach(viewModel.flickrImagesDataModel?.items ?? [], id: \.title) { item in
+                ForEach(viewModel.flickrImagesDataModel?.items ?? [], id: \.link) { item in
                     
                     NavigationLink {
                         withAnimation {
