@@ -35,6 +35,8 @@
 		080D07B42C3F8EBB0056A9C0 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 080D07B32C3F8EBB0056A9C0 /* Endpoint.swift */; };
 		080D07B72C3F8EEA0056A9C0 /* FlickrEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 080D07B62C3F8EEA0056A9C0 /* FlickrEndpoint.swift */; };
 		080D07B92C3F9DEE0056A9C0 /* HTMLText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 080D07B82C3F9DEE0056A9C0 /* HTMLText.swift */; };
+		08DFD9362C78E1E100B6AA56 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 080D07B32C3F8EBB0056A9C0 /* Endpoint.swift */; };
+		08DFD9372C78E20F00B6AA56 /* FlickrEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 080D07B62C3F8EEA0056A9C0 /* FlickrEndpoint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -370,8 +372,10 @@
 				080D07AB2C3F84200056A9C0 /* FlickrImagesViewModel.swift in Sources */,
 				080D07A92C3F82E20056A9C0 /* Mockable.swift in Sources */,
 				080D07AA2C3F840E0056A9C0 /* FlickrImagesService.swift in Sources */,
+				08DFD9372C78E20F00B6AA56 /* FlickrEndpoint.swift in Sources */,
 				080D079A2C3F81710056A9C0 /* FlickrImagesViewModelTests.swift in Sources */,
 				080D07AC2C3F842A0056A9C0 /* FlickrImagesServerDataModel.swift in Sources */,
+				08DFD9362C78E1E100B6AA56 /* Endpoint.swift in Sources */,
 				080D07B02C3F85180056A9C0 /* FlickrImagesServiceTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

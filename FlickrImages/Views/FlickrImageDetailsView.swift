@@ -51,7 +51,7 @@ struct FlickrImageDetailsView: View {
                     
                     Divider()
                     
-                    if let description = imageItem.title {
+                    if let description = imageItem.description {
                         Text("Description:")
                             .font(.title3)
                         

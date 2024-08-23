@@ -33,7 +33,7 @@ extension FlickrImagesViewModel {
         }
         
         flickrImagesDataResult = .inProgress
-        let resultData = await self.service.getFlickrImages(searchText: searchText)
+        let resultData = await service.getFlickrImages(searchText: searchText)
         
         switch resultData {
         case .success(let model):
